@@ -25,6 +25,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://89yamal.github.io/react-events-state-layouts",
   "browserslist": {
     "production": [
       ">0.2%",
