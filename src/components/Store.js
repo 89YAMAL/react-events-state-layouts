@@ -1,6 +1,5 @@
 import React from "react";
 import { useState } from "react";
-import PropTypes from "prop-types";
 import IconSwitch from "./IconSwitch";
 import ListView from "./ListView";
 import CardViews from "./CardsView"
