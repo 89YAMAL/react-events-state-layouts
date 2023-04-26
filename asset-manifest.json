@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-events-state-layouts/static/css/main.6bf950ea.css",
+    "main.js": "/react-events-state-layouts/static/js/main.758327c8.js",
+    "static/js/787.55478885.chunk.js": "/react-events-state-layouts/static/js/787.55478885.chunk.js",
+    "index.html": "/react-events-state-layouts/index.html",
+    "main.6bf950ea.css.map": "/react-events-state-layouts/static/css/main.6bf950ea.css.map",
+    "main.758327c8.js.map": "/react-events-state-layouts/static/js/main.758327c8.js.map",
+    "787.55478885.chunk.js.map": "/react-events-state-layouts/static/js/787.55478885.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bf950ea.css",
+    "static/js/main.758327c8.js"
+  ]
+}
