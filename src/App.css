@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+.IconSwitch .material-icons {
+    cursor: pointer;
+    font-size: 40px;
+}
+
+.IconSwitch {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    justify-content: flex-start;
+    color: gray;
+    padding: 30px;
+}
+
+.CardsView {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.card {
+    text-align: center;
+    box-sizing: border-box;
+    color: #000;
+    position: relative;
+    background: #f5f5f5;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    box-shadow: 2px 4px 10px #555;
+}
+
+.card header, .card footer {
+    position: absolute;
+    width: 100%;
+}
+.card header {
+    top: 20px;
+}
+
+.card .card_color {
+    font-weight: 400;
+    padding-top: 6px;
+}
+
+.card_price {
+    font-weight: 400;
+    color: #da5441; 
+}
+
+button {
+    padding: 10px 25px;
+    font-weight: 600;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: #da5441; 
+    border: 2px solid #da5441;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
+
+.card footer {
+    display: flex;
+    bottom: 15px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-end;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.card img {
+    width: 350px;
+    padding: 10px;
+}
+
+h3 {
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.item {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-between;
+    align-items: center;
+    background: #f5f5f5;
+    padding: 0 10px;
+    margin: 1px 0;
+    height: 90px;
+}
+
+.item .card_image {
+    width: 120px;
+    height: 90px;
+    position: relative;
+    overflow: hidden;
+}
+
+.item img {
+    width: 120px;
+    height: 120px;
+    margin: -27px 0;
+}
+
+
+
+
